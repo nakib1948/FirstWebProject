@@ -51,7 +51,7 @@ h2{
     padding-left: 10px;
 }
 .experience-area{
-    background-image: url("Images/third.jpg");
+    background-image: url("./Images/third.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
 }
